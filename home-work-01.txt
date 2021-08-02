@@ -1,1 +1,2 @@
-my first main change into file home-work-01.txt
+my first main and feature change into file home-work-01.txt
+my second change
